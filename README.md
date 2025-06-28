@@ -6,3 +6,5 @@ Challenges include:
 - Handling imbalanced datasets where fraud cases are a small fraction of total transactions.
 - Ensuring high precision to minimize false positives (flagging a valid transaction as fraud).
 - Ensuring high recall to detect as many fraud cases as possible.
+
+You can download the dataset from [here.](https://media.geeksforgeeks.org/wp-content/uploads/20240904104950/creditcard.csv)
